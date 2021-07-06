@@ -1,1 +1,13 @@
+.input-field,
+.view-field {
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #999;
+    border-radius: 10px;
+    padding-left: 10px;
+    overflow: hidden;
+}
 
+.screen-header {
+    margin-top: 15px;
+}
